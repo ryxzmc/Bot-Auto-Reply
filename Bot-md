@@ -1,0 +1,21 @@
+# 🎌 Bot-AutoReply
+
+sc by: RyxzMC 
+
+### Cara Install package
+
+ `pkg update && pkg upgrade -y
+ `pkg install nodejs git ffmpeg imagemagick -y`
+ `git clone https://github.com/ryxzmc/Bot-Auto-Reply/new/main`
+ `cd Bot-Auto-Reply`
+ `npm install`
+ `nano config.js` //ganti nomor lu
+ `npm start` → scan QR
+
+npm start        // jalanin bot
+npm install axios // tambah package baru
+rm -rf session   // reset QR kalo error
+git pull         // update kode dari GitHub
+
+### Fitur
+!menu,!waifu,!loli,!nekopoi, !chatgpt, !bikin stc, !game, !jaga grup 
